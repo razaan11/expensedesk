@@ -1,0 +1,42 @@
+claim_id,employee,expense_date,submitted_date,category,merchant,amount,receipt,description
+CLM0001,P. Nair,2026-09-18,2026-09-19,Taxi,Uber,34.28,Y,Taxi for client visit
+CLM0002,D. Shah,2026-09-04,2026-09-05,Meals,Starbucks,13.35,Y,Meals for client visit
+CLM0003,A. Menon,2026-09-01,2026-09-05,Meals,Olive Bistro,96.5,Y,Airfare for client visit
+CLM0004,A. Menon,2026-08-22,2026-08-26,Meals,Taj Cafe,32.78,Y,Meals for client visit
+CLM0005,R. Iyer,2026-09-24,2026-09-25,Airfare,IndiGo Airlines,352.73,Y,Airfare for client visit
+CLM0006,A. Menon,2026-08-24,2026-09-03,Hotel,Hilton Bangalore,78.0,N,Hotel for client visit
+CLM0007,A. Menon,2026-09-16,2026-09-26,Client Entertainment,Paradise Restaurant,71.07,Y,Client Entertainment for client visit
+CLM0008,D. Shah,2026-09-23,2026-09-24,Train,IRCTC,79.57,Y,Train for client visit
+CLM0009,S. Khan,2026-08-31,2026-09-08,Train,IRCTC,63.39,Y,Train for client visit
+CLM0010,R. Iyer,2026-09-16,2026-09-18,Hotel,Taj Vivanta,141.53,Y,Team dinner with wine
+CLM0011,P. Nair,2026-09-06,2026-09-11,Airfare,IndiGo Airlines,232.65,Y,Airfare for client visit
+CLM0012,S. Khan,2026-09-17,2026-09-20,Airfare,Air India,445.19,Y,Airfare for client visit
+CLM0013,D. Shah,2026-09-23,2026-10-03,Client Entertainment,Social Club,68.81,Y,Client Entertainment for client visit
+CLM0014,D. Shah,2026-08-27,2026-09-04,Taxi,Uber,34.88,Y,Taxi for client visit
+CLM0015,A. Menon,2026-08-28,2026-12-01,Taxi,Ola Cabs,28.71,Y,Taxi for client visit
+CLM0016,S. Khan,2026-08-30,2026-09-06,Client Entertainment,Social Club,46.58,Y,Client Entertainment for client visit
+CLM0017,R. Iyer,2026-09-05,2026-09-15,Airfare,IndiGo Airlines,495.59,Y,Airfare for client visit
+CLM0018,R. Iyer,2026-09-09,2026-09-13,Hotel,Hilton Bangalore,151.05,Y,Hotel for client visit
+CLM0019,R. Iyer,2026-09-22,2026-09-30,Airfare,Air India,534.61,Y,Airfare for client visit
+CLM0020,D. Shah,2026-08-31,2026-09-05,Hotel,Taj Vivanta,153.61,Y,Hotel for client visit
+CLM0021,R. Iyer,2026-09-03,2026-09-06,Taxi,Uber,13.64,Y,Taxi for client visit
+CLM0022,A. Menon,2026-09-13,2026-09-21,Hotel,Taj Vivanta,129.15,Y,Hotel for client visit
+CLM0023,R. Iyer,2026-09-27,2026-10-04,Taxi,Ola Cabs,27.51,Y,Taxi for client visit
+CLM0024,D. Shah,2026-09-19,2026-09-29,Taxi,Uber,22.61,Y,Taxi for client visit
+CLM0025,P. Nair,2026-08-23,2026-08-30,Client Entertainment,Social Club,72.59,Y,Client Entertainment for client visit
+CLM0026,A. Menon,2026-09-02,2026-09-06,Airfare,IndiGo Airlines,839.27,Y,Airfare for client visit
+CLM0027,A. Menon,2026-09-17,2026-09-23,Airfare,IndiGo Airlines,221.67,Y,Airfare for client visit
+CLM0028,D. Shah,2026-09-18,2026-09-20,Train,IRCTC,93.65,Y,Train for client visit
+CLM0029,D. Shah,2026-09-14,2026-09-21,Meals,Starbucks,34.84,Y,Meals for client visit
+CLM0030,P. Nair,2026-09-04,2026-09-06,Taxi,Uber,35.17,Y,Taxi for client visit
+CLM0031,P. Nair,2026-08-28,2026-09-02,Airfare,IndiGo Airlines,250.88,Y,Airfare for client visit
+CLM0032,S. Khan,2026-09-06,2026-09-14,Client Entertainment,Paradise Restaurant,81.14,Y,Client Entertainment for client visit
+CLM0033,S. Khan,2026-08-25,2026-08-28,Hotel,Taj Vivanta,167.03,Y,Hotel for client visit
+CLM0034,S. Khan,2026-08-25,2026-08-27,Meals,Olive Bistro,30.66,Y,Meals for client visit
+CLM0035,R. Iyer,2026-09-05,2026-09-14,Hotel,Taj Vivanta,191.8,Y,Hotel for client visit
+CLM0036,D. Shah,2026-09-13,2026-09-17,Taxi,Uber,34.19,Y,Taxi for client visit
+CLM0037,R. Iyer,2026-09-13,2026-09-22,Client Entertainment,Social Club,69.89,Y,Client Entertainment for client visit
+CLM0038,S. Khan,2026-09-26,2026-10-04,Meals,Olive Bistro,18.97,Y,Meals for client visit
+CLM0039,P. Nair,2026-09-05,2026-09-11,Train,IRCTC,29.66,Y,Train for client visit
+CLM0040,P. Nair,2026-09-13,2026-09-17,Meals,Olive Bistro,19.36,Y,Meals for client visit
+CLM0041,R. Iyer,2026-09-03,2026-09-06,Taxi,Uber,13.64,Y,Taxi for client visit
